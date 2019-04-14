@@ -1,3 +1,7 @@
+IS373 Mini Project 2
+
+Theme is located in sites/all/themes/myTheme
+
 
 CONTENTS OF THIS FILE
 ---------------------
